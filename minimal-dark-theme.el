@@ -25,7 +25,7 @@
 ;;; Code:
 
 (deftheme minimal-dark
-  "DOCSTRING")
+  "A minimal theme based on xterm-256 color set [dark version]")
 
 (let ((black016 "#000000")   ;; black
       (white231 "#ffffff")   ;; white
@@ -80,7 +80,7 @@
   ;; Set variables
   (custom-theme-set-variables
    'minimal-dark 
-   ;'(any-variable EXPR)
+   ;'(other variables)
    )
 )
 
