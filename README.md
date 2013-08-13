@@ -7,7 +7,7 @@ only reduce code readability, but its also a distraction! of course many
 programmers may not agree with this opinion, but for those who does,
 this color theme is a **VERY** minimalistic color theme which use xterm-256 color set
 so it has a unified look in both GUI and in Terminal.
-it come in two versions: `dark`, and `light`.
+it comes in two versions: `dark`, and `light`.
 
 ## Installation
 
