@@ -14,7 +14,7 @@
 ;; Im not a big fan of syntax highlighting! to me, syntax highlighting is not 
 ;; only reduce code readability, but its also a distraction! of course many
 ;; programmers may not agree with this opinion, but for those who does,
-;; 'minimal-light' is a VERY minimalistic color theme which use xterm-256 coloer set
+;; 'minimal-light' is a VERY minimalistic color theme which use xterm-256 color set
 ;; so it has a unified look in both GUI and in Terminal. there is also a 
 ;; 'dark' version of this color theme (minimal-dark). 
 
