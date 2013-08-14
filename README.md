@@ -4,7 +4,7 @@ A minimal theme based on xterm-256 color set.
 
 Im not a big fan of syntax highlighting! to me, syntax highlighting is not 
 only reduce code readability, but its also a distraction! of course many
-programmers may not agree with this opinion, but for those who does,
+programmers may not agree with this opinion, but for those who do,
 this color theme is a **VERY** minimalistic color theme which use xterm-256 color set
 so it has a unified look in both GUI and in Terminal.
 it comes in two versions: `dark`, and `light`.
